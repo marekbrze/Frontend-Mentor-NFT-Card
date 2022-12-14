@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 <!-- TODO -->
 
-![]()
+![](images/nft-card-screenshot.png)
 
 ### Links
 
@@ -31,13 +31,18 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Built with
 
-<!-- TODO -->
+Plain HTML & CSS.
 
 -
 
 ### What I learned
 
-<!-- TODO -->
+- I used this challenge to optimize my workflow. Especially generating css variables in Figma and using them in the code.
+
+### My questions
+
+- How to make sure that hoverable overlay is accessible?
+- Why does overlay takes expands outside of the image?
 
 ## Author
 
