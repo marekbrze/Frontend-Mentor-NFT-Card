@@ -1,3 +1,23 @@
+:root {
+  /* Color styles */
+  --white: hsla(0, 0%, 100%, 1);
+  --black: hsla(0, 0%, 0%, 1);
+  --cyan: hsla(178, 100%, 50%, 1);
+  --soft--blue: hsla(215, 50.6%, 69.8%, 1);
+  --very--dark--blue-main--b-g: hsla(217, 54.4%, 11.2%, 1);
+  --very--dark--blue-card--b-g: hsla(216, 50%, 16.5%, 1);
+  --very--dark--blue-line: hsla(215, 32.4%, 26.7%, 1);
+
+  /* Text-size styles */
+  /* base size: body (18px) */
+  --heading: 1.22rem;
+  --body: 1rem;
+  --caption: 0.89rem;
+  --caption--bold: 0.89rem;
+
+  /* Effect styles */
+  --big-shadow: 0px 25px 50px rgba(0, 0, 0, 0.1);
+}
 /* Attribution */
 
 .attribution {
@@ -10,5 +30,5 @@
   bottom: 0.5rem;
 }
 .attribution a {
-  color: var(--blue);
+  color: blue;
 }
