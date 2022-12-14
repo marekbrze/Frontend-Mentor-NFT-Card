@@ -16,24 +16,20 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-<!-- TODO -->
-
 ![](images/nft-card-screenshot.png)
 
 ### Links
 
 <!-- TODO -->
 
-- [Link to the Git repository]()
-- [Live Demo]()
+- [Link to the Git repository](https://github.com/marekbrze/Frontend-Mentor-NFT-Card)
+- [Live Demo](https://marekbrze.github.io/Frontend-Mentor-NFT-Card/)
 
 ## My process
 
 ### Built with
 
 Plain HTML & CSS.
-
--
 
 ### What I learned
 
