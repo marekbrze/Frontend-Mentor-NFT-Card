@@ -35,6 +35,8 @@ Plain HTML & CSS.
 ### What I learned
 
 - I used this challenge to optimize my workflow. Especially generating css variables in Figma and using them in the code.
+- I realized that it's much easier to use rgba or hsla colors for overlays and then just changing opacity to 100%.
+- I learned how to use transitions for animating overlays and other elements.
 
 ### My questions
 
